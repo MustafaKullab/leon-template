@@ -46,7 +46,7 @@ This project was built as a practice to improve frontend skills and understand l
 
 ## 🌐 Live Demo
 
-(coming soon)
+[(coming soon)](https://mustafakullab.github.io/leon-template/)
 
 ---
 
