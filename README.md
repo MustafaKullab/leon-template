@@ -22,7 +22,7 @@ A modern and responsive website template built using pure HTML and CSS, focused 
 
 ## 📸 Preview
 
-![Preview](images/landing.jpg)
+<img width="1898" height="915" alt="image" src="https://github.com/user-attachments/assets/2c48f011-4fb5-472d-bc5e-e64cebb6ea4c" />
 
 ---
 
